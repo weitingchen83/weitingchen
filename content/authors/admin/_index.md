@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Graduate Institude of Electronic Engineering National Taiwan University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Deep Learning
+- Machine Learning
+- Computational Photography
 
 education:
   courses:

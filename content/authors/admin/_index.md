@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Student
+role: Student of Graduate Institude of Electronic Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Graduate Institude of Electronic Engineering National Taiwan University
+- name: National Taiwan University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
